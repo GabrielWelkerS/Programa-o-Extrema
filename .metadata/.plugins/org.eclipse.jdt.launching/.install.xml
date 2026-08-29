@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
     <entry loc="C:\Users\Asus Menfix\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.12.v20260801-1229\jre" stamp="1787021074493"/>
+    <entry loc="/snap/eclipse/146/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.11.v20260515-1531/jre" stamp="1784881510000"/>
     <entry loc="C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot" stamp="1787015884027"/>
+    <entry loc="/usr/lib/jvm/java-21-openjdk-amd64" stamp="1787821604251"/>
+    <entry loc="/snap/eclipse/146/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.11.v20260515-1531" stamp="1784881510000"/>
     <entry loc="C:\Users\Asus Menfix\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.12.v20260801-1229" stamp="1787021074509"/>
 </dirs>

@@ -1,0 +1,29 @@
+package excecoes;
+
+import java.util.Scanner;
+
+public class Capturando_exceção {
+
+	@SuppressWarnings("resource")
+	public static void main(String[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+		//Integer dividendo = scanner.nextInt();
+		//Integer divisor = scanner.nextInt();
+		
+		
+		
+		System.out.println("Dividendo: ");
+		Integer dividendo = scanner.nextInt();
+		
+		System.out.println("Divisor: ");
+		Integer divisor = scanner.nextInt();
+		
+		Integer quociente = dividendo / divisor;
+		
+		System.out.println("Resultado: " + quociente);
+		
+		
+	}
+
+}
