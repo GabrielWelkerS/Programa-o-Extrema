@@ -1,0 +1,5 @@
+package excecoesDirecionadas;
+
+public class ArrayIndexOutOfBoundsExceptionCustom {
+
+}

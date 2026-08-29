@@ -1,0 +1,7 @@
+package excecoesDirecionadas;
+
+public class ExcecaoCustomizada {
+	public ExcecaoCustomizada(String s) {
+		super(s);
+	}
+}

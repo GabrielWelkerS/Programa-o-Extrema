@@ -1,0 +1,27 @@
+package excecoesDirecionadas;
+
+public class Principal4 {
+
+    public static void main(String[] args) {
+
+    	try {
+
+    	    int array[] = new int[3];
+
+    	    try {
+    	        array[0] = 10 / 0;
+    	    } catch (ArithmeticException e) {
+    	        throw new ArithmeticExceptionCustom();
+    	    }
+
+    	} catch (ArithmeticExceptionCustom e) {
+
+    	    System.out.println("ArithmeticException: " + e.getMessage());
+
+    	} finally {
+
+    	    System.out.println("Fim");
+    	}
+
+    }
+}

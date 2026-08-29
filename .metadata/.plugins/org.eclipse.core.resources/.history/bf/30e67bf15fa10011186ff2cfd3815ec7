@@ -1,0 +1,12 @@
+package excecoes;
+
+public class Excecao3 extends Exception {
+	
+
+	public class IdadaInvalidaException extends Exception {
+		
+		public IdadeinvalidaException(String mensagem) {
+			super(mensagem);
+		}
+	}
+}

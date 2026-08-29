@@ -1,0 +1,9 @@
+package excecoesDirecionadas;
+
+public class ArithmeticExceptionCustom extends ArithmeticException {
+
+    public ArithmeticExceptionCustom() {
+        super("Minha ArithmeticException");
+        System.out.println("Erro matemático, verifique os valores usados");
+    }
+}

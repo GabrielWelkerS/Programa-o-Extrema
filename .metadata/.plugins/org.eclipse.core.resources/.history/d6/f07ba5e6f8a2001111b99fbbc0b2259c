@@ -1,0 +1,9 @@
+package excecoesDirecionadas;
+
+public class ArithmeticExceptionCustom extends ArithmeticException {
+	
+	public ArithmeticExceptionCustom() {
+		super("Minhha ArithmeticException");
+	}
+
+}

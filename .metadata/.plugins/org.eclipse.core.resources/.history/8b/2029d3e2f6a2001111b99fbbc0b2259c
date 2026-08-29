@@ -1,0 +1,11 @@
+package excecoesDirecionadas;
+
+public class ArithmeticExceptionCustom extends ArithmeticException {
+	
+	String mensagem;
+	
+	public ArithmeticExceptionCustom() {
+		super("Minhja ArithmeticException");
+	}
+
+}
