@@ -17,7 +17,7 @@ public class Gravandoarquivo_Texto {
         int faltas;
 
         FileWriter arq = new FileWriter(
-            "/home/gabriel/Documentos/trabalhando_arquivos/exemplo1.txt"
+            "/home/gabriel/Documentos/trabalhando_arquivos/exemplo2.txt"
         );
 
         PrintWriter gravarArq = new PrintWriter(arq);
