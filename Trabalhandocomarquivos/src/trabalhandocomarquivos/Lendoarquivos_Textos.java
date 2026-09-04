@@ -24,7 +24,8 @@ public class Lendoarquivos_Textos {
 				
 			arq.close();
 				
-		} catch (IOException e) {
+		} 
+		catch (IOException e) {
 			System.out.printf("Erro na abertura do arquivo: %s\n", e.getMessage());
 		}
 			System.out.println();

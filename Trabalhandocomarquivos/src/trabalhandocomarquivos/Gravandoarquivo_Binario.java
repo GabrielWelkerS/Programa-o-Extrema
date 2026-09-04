@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Gravandoarquivo_binario {
+public class Gravandoarquivo_Binario {
 
     public static void main(String[] args) throws IOException {
 
@@ -17,7 +17,7 @@ public class Gravandoarquivo_binario {
         int faltas;
 
         FileOutputStream arq = new FileOutputStream(
-            "/home/gabriel/Documentos/trabalhando_arquivos/exemplo1.txt"
+            "/home/gabriel/Documentos/trabalhando_arquivos/exemploBi1.txt"
         );
 
         DataOutputStream gravarArq = new DataOutputStream(arq);

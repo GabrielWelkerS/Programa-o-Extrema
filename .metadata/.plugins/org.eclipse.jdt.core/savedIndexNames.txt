@@ -7,10 +7,9 @@ INDEX VERSION 1.134+/home/gabriel/Documentos/Programa-o-Extrema/.metadata/.plugi
 3989053859.index
 3192696740.index
 2105142749.index
-3271660423.index
 3935790899.index
 825080768.index
 3491415924.index
-3916516901.index
 1218565029.index
+3916516901.index
 3290045232.index
