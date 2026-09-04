@@ -1,8 +1,0 @@
-package excecoesDirecionadas;
-
-public class ClasseNeta {
-
-	public void executar(){
-		System.out.println(10/0);
-	}
-}
